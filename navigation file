@@ -1,0 +1,82 @@
+NAVIGATION MODE
+
+
+1.Navigation Modes: there are three navigation modes into the VR Viewer: walking, flying and mechanical.
+ 
+ 
+1.Walking Mode: this mode allow user to walking around in the scene such as the human "the first person view", the speed of the walk can be increased by pressing the hold Shift key while walking in the scene, also can decrease the speed by press Caps Lock for one time and back to the normal speed by press it again.
+ 
+2.Flying Mode: Users can fly like a bird in the VR Viewer.
+ 
+3.Mechanical Mode: this mode allows the user to turn the camera view around the scene into the VR Viewer.
+ 
+
+
+2.Create Notes:
+
+ With new features, users can create notes into the VR Viewer. These notes allow her\him to save the viewer location with the direction seen and reference it at any time, also can include some notes using the keyboard or by sketching on the objects and recording the voice.
+
+
+ 
+  In edit note menu below user can change the image preview for the note by press Capture View, press on the pen icon to start sketching on the objects and It can be deleted by hold right click the mouse over it, also can start recording the voice by press on the red circle icon and on the white square icon to stop recording, the user can delete the record by press on the trash icon.
+
+
+ 3.Help
+
+Gives a help call
+
+
+4. Save the Scene: 
+
+This  option allows the user to save the changes on the scene into the VR Viewer as a .vrpackage or .exe file.
+
+
+9. Restart the Scene:
+
+ This option allows the user to restart the VR viewer in order to go back to the first point.
+
+
+10. Scene Building Mode: 
+
+Dedicated mode where user can move, rotate, scale, copy, delete, and hide/show objects in the VR Viewer.
+
+  In this mode users can use two hands interaction with VR scene elements, also can grab with two hands.
+ 
+ 
+ 
+When user click on  in the VR Viewer, the icons below will appear:
+
+
+Hide/Show object.
+
+
+Replace the object with another object.
+
+
+Back to default size for the object.
+
+
+Make a copy from the object.
+
+
+Delete the object.
+ 
+11. List Mode
+
+Visualise scene options (scene states and animation sequences) by displaying them as entities in 3D world for easier and practical VR experiences
+
+
+12. Large Navigation Mode: 
+
+with this mode the user can start teleportation between the 360 cameras which was created into the scene.
+
+
+13. Apply Measurement Mode: 
+
+ This mode allows the user to create and display the projected distance between 2 points in the VR Viewer, the unit used is Meter, to use this mode just press hold the lift click and move the mouse over any object in the viewer, when she\him finishes just drop the mouse.
+ 
+
+
+ 
+14. Exit, Maximise/Restore Down and Minimise the VR Viewer Screen.
+
